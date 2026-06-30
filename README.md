@@ -64,3 +64,11 @@ src="https://img.shields.io/github/followers/JohnDarkman?logo=github&style=for-t
 **Thanks for visiting!** 🙏
 
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
