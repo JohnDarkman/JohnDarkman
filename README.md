@@ -8,13 +8,13 @@ Global IT Specialist at Kurz Production (M) Sdn. Bhd.
 
 Founder of I/O – TRIX, an emerging tech ecosystem, including I/O – TRIX Circle, Malaysia's First Student-Led Movement in OT & IoT Cybersecurity.
 
----
-
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
 * 🧠  I'm currently learning emerging technologies and modern software engineering practices
 * 👥  I'm looking to collaborate on projects that create real-world impact through technology and innovation.
 * 💬  Fsociety.
+
+---
 
 ```bash
 
