@@ -36,18 +36,18 @@ $ exit
 
 ---
 
+* 🌍  I'm based in Malaysia
+* ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
+* 🧠  I'm currently learning emerging technologies and modern software engineering practices
+* 👥  I'm looking to collaborate on projects that create real-world impact through technology and innovation.
+* 💬  Fsociety.
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/JohnDarkman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="http://www.medium.com/@navenesh5903" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/navenesh-kumar/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 <a href="https://www.github.com/JohnDarkman" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JohnDarkman?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
-* 🧠  I'm currently learning emerging technologies and modern software engineering practices
-* 👥  I'm looking to collaborate on projects that create real-world impact through technology and innovation.
-* 💬  Fsociety.
 
 <h2>🚀&nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
