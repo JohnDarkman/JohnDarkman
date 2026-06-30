@@ -8,6 +8,31 @@ Global IT Specialist at Kurz Production (M) Sdn. Bhd.
 
 Founder of I/O – TRIX, an emerging tech ecosystem, including I/O – TRIX Circle, Malaysia's First Student-Led Movement in OT & IoT Cybersecurity.
 
+```bash
+$ whoami
+John Doe
+
+$ cat about.txt
+Passionate about crafting seamless web experiences, I thrive at the intersection of design and functionality. When I'm not coding, you can find me exploring the latest tech trends or sharing insights with fellow developers.
+
+$ pwd
+San Francisco, CA @ Tech Innovations Inc.
+
+$ ls skills/
+JavaScript | React | Node.js | CSS | HTML
+
+$ cat learning.txt
+Delving into TypeScript to enhance my front-end development skills.
+
+$ cat interests.txt
+Building scalable web applications, effective code reviews, or best practices in React.
+
+$ fortune
+I once built a fully functional arcade machine from scratch—complete with retro games!
+```
+
+---
+
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
 * 🧠  I'm currently learning emerging technologies and modern software engineering practices
