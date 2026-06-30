@@ -9,41 +9,27 @@ Global IT Specialist at Kurz Production (M) Sdn. Bhd.
 Founder of I/O – TRIX, an emerging tech ecosystem, including I/O – TRIX Circle, Malaysia's First Student-Led Movement in OT & IoT Cybersecurity.
 
 ```bash
+
 $ whoami
-navenesh_kumar
+john_darkman
 
 $ uname -a
-Linux kali 6.x.x-amd64 x86_64 GNU/Linux
+Linux kali 6.x
 
-$ ip a
-[████████] interface scan
-inet 192.168.1.10/24
-
-$ ifconfig
-eth0: inet 192.168.1.10
+$ ip a | grep inet
+[OK] 192.168.1.10/24
 
 $ nmap -sn 192.168.1.0/24
-[████████] scanning network
-Host up: 192.168.1.1
-Host up: 192.168.1.10
+[███░░░░░░] scanning...
 
 $ systemctl status networking
-[████████] active (running)
-
-$ ss -tuln
-[████████] listening ports normal
-
-$ git status
-clean working tree
-
-$ echo $security
-firewall=enabled | ssh=active | audit=on
+[OK] running
 
 $ echo $mindset
-why do we fall? so we can learn to pick ourselves up
+why do we fall? so we learn to pick ourselves up
 
 $ exit
-[████████] session terminated
+[OK] session closed
 ```
 
 ---
