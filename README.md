@@ -8,6 +8,8 @@ Global IT Specialist at Kurz Production (M) Sdn. Bhd.
 
 Founder of I/O – TRIX, an emerging tech ecosystem, including I/O – TRIX Circle, Malaysia's First Student-Led Movement in OT & IoT Cybersecurity.
 
+---
+
 ```bash
 
 $ whoami
