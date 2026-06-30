@@ -10,6 +10,12 @@ Founder of I/O – TRIX, an emerging tech ecosystem, including I/O – TRIX Circ
 
 ---
 
+* 🌍  I'm based in Malaysia
+* ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
+* 🧠  I'm currently learning emerging technologies and modern software engineering practices
+* 👥  I'm looking to collaborate on projects that create real-world impact through technology and innovation.
+* 💬  Fsociety.
+
 ```bash
 
 $ whoami
@@ -35,12 +41,6 @@ $ exit
 ```
 
 ---
-
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
-* 🧠  I'm currently learning emerging technologies and modern software engineering practices
-* 👥  I'm looking to collaborate on projects that create real-world impact through technology and innovation.
-* 💬  Fsociety.
 
 ### Socials
 
