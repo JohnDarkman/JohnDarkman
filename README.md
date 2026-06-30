@@ -56,3 +56,11 @@ src="https://img.shields.io/github/followers/JohnDarkman?logo=github&style=for-t
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/JohnDarkman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDarkman&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+---
+
+<div align="center">
+
+**Thanks for visiting!** 🙏
+
+</div>
