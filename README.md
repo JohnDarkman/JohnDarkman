@@ -10,25 +10,40 @@ Founder of I/O – TRIX, an emerging tech ecosystem, including I/O – TRIX Circ
 
 ```bash
 $ whoami
-John Doe
+navenesh_kumar
 
-$ cat about.txt
-Passionate about crafting seamless web experiences, I thrive at the intersection of design and functionality. When I'm not coding, you can find me exploring the latest tech trends or sharing insights with fellow developers.
+$ uname -a
+Linux kali 6.x.x-amd64 x86_64 GNU/Linux
 
-$ pwd
-San Francisco, CA @ Tech Innovations Inc.
+$ ip a
+[████████] interface scan
+inet 192.168.1.10/24
 
-$ ls skills/
-JavaScript | React | Node.js | CSS | HTML
+$ ifconfig
+eth0: inet 192.168.1.10
 
-$ cat learning.txt
-Delving into TypeScript to enhance my front-end development skills.
+$ nmap -sn 192.168.1.0/24
+[████████] scanning network
+Host up: 192.168.1.1
+Host up: 192.168.1.10
 
-$ cat interests.txt
-Building scalable web applications, effective code reviews, or best practices in React.
+$ systemctl status networking
+[████████] active (running)
 
-$ fortune
-I once built a fully functional arcade machine from scratch—complete with retro games!
+$ ss -tuln
+[████████] listening ports normal
+
+$ git status
+clean working tree
+
+$ echo $security
+firewall=enabled | ssh=active | audit=on
+
+$ echo $mindset
+why do we fall? so we can learn to pick ourselves up
+
+$ exit
+[████████] session terminated
 ```
 
 ---
