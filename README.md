@@ -10,8 +10,6 @@ Global IT Specialist at Kurz Production (M) Sdn. Bhd.
 * ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
 * 🧠  I'm currently learning emerging technologies and modern software engineering practices
 * 👥  I'm looking to collaborate on projects that create real-world impact through technology and innovation
-* 💬  Fsociety
-
 ---
 
 ### Socials
