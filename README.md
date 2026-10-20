@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Navenesh Kumar
 =======================================================================================================================================
 
-IT Specialist, KURZ | Founder, I/O-TRIX
+IT Specialist, KURZ 
 ---------------------------------------------
 
 Global IT Specialist at Kurz Production (M) Sdn. Bhd.
-
-Founder of I/O – TRIX, an emerging tech ecosystem, including I/O – TRIX Circle, Malaysia's First Student-Led Movement in OT & IoT Cybersecurity.
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [navenesh5903@gmail.com](mailto:navenesh5903@gmail.com)
